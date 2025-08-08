@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Lucas Sousa
 
-<!--
-**Lucas-088/Lucas-088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou **estudante de Análise e Desenvolvimento de Sistemas**  
+💻 Tenho interesse em **Back-End** e **Full Stack Development**  
+🌱 Atualmente estou aprendendo **desenvolvimento web** na faculdade  
+🔍 Buscando minha primeira oportunidade de **estágio** para crescer como desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Sousa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sousalucas-pro)  
+
+---
+
+## 📌 Sobre mim
+Tenho paixão por tecnologia e programação, e estou construindo uma base sólida para atuar como desenvolvedor web.  
+Meu objetivo é ganhar experiência prática, contribuir para projetos e evoluir profissionalmente na área de Back-End e Full Stack.
+
+---
