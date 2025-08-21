@@ -1,4 +1,4 @@
-### Ola, Meu nome é [Lucas Sousa](https://www.linkedin.com/in/sousalucas-pro/) 👋
+### Olá, Meu nome é [Lucas Sousa](https://www.linkedin.com/in/sousalucas-pro/) 👋
 
 
 ---
