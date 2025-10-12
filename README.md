@@ -16,5 +16,5 @@ Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do
 - Sistemas operacionais: Windows, Linux
 
   
-#### 📫 Como me encontrar
+### 📫 Como me encontrar
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue">](https://www.linkedin.com/in/sousalucas-pro/)
