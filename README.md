@@ -6,7 +6,7 @@
 #### 🔧 Sobre mim
 Tenho paixão por tecnologia e programação, e estou construindo uma base sólida para atuar como desenvolvedor web.  
 Meu objetivo é ganhar experiência prática, contribuir para projetos e evoluir profissionalmente na área de Back-End e Full Stack.    
-Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
+Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul.
 
 
 #### 💡 Habilidades
