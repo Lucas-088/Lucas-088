@@ -13,7 +13,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do
   
 - Desenvolvimento Web      
 - Microsoft Office
-- Sistemas operacionais: Windows, Linux
+- Sistemas operacionais: Windows, Linux.
 
   
 ### 📫 Como me encontrar
